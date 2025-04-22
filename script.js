@@ -206,7 +206,7 @@ async function displayAlbums() {
 
 async function main() {
 
-     songs = await getSongs("songs/aujla");
+     songs = await getSongs("songs/cs");
      displayAlbums();
     // console.log(songs);
     // ab songs ko display karana ha lib2 mei
